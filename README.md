@@ -45,5 +45,27 @@ Berikut Tampilannya
 
 ![image](https://user-images.githubusercontent.com/81574673/125195632-b11b9c00-e280-11eb-8fc5-62b511a7a02f.png)
 
+Berikut Add Transaksi
+
+![image](https://user-images.githubusercontent.com/81574673/125203460-a2de7780-e2a2-11eb-8f59-6e51a35d6234.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125203476-b38eed80-e2a2-11eb-98be-5f186c18346d.png)
+
+Berikut Tampilannya 
+
+![image](https://user-images.githubusercontent.com/81574673/125203518-e0db9b80-e2a2-11eb-984a-7978e1e2c8e7.png)
+
+3. Untuk membuat "UPDATE" saya menambahkan Directory Edit Kasir, Edit Pelanggan, Edit Barang, dan Edit Transaksi
+
+Berikut Edit Kasir
+
+![image](https://user-images.githubusercontent.com/81574673/125203765-20ef4e00-e2a4-11eb-878e-53fb375f5919.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125203791-3e241c80-e2a4-11eb-8224-ef03c2f65d44.png)
+
+Tampilannya sebagai berikut!
+
+
+
 
 
