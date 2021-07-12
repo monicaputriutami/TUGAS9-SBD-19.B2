@@ -65,6 +65,56 @@ Berikut Edit Kasir
 
 Tampilannya sebagai berikut!
 
+![image](https://user-images.githubusercontent.com/81574673/125318984-90c50d80-e364-11eb-86df-24d5b13784ed.png)
+
+Berikut Edit Barang 
+
+![image](https://user-images.githubusercontent.com/81574673/125319423-f4e7d180-e364-11eb-9aae-60e628eeb0aa.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125319501-05984780-e365-11eb-81d5-1e01804ff59f.png)
+
+Tampilannya sebagai berikut!
+
+![image](https://user-images.githubusercontent.com/81574673/125319728-39736d00-e365-11eb-8ef5-65e446046c1b.png)
+
+Berikut Edit Transaksi 
+
+![image](https://user-images.githubusercontent.com/81574673/125319877-5dcf4980-e365-11eb-9b2d-8df6410d6891.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125320027-83f4e980-e365-11eb-8278-19c37886fd51.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125320109-91aa6f00-e365-11eb-9624-ca6df7f19aa7.png)
+
+Tampilannya sebagai Berikut!
+
+![image](https://user-images.githubusercontent.com/81574673/125320289-c3233a80-e365-11eb-8d42-c457bbb7c8e7.png)
+
+Berikutnya Edit Pelanggan
+
+![image](https://user-images.githubusercontent.com/81574673/125320418-e2ba6300-e365-11eb-8c54-0b79375f4a5d.png)
+
+![image](https://user-images.githubusercontent.com/81574673/125320478-f49c0600-e365-11eb-8dfe-8c16741dcb7a.png)
+
+Tampilannya sebagai Berikut!
+
+![image](https://user-images.githubusercontent.com/81574673/125321101-8dcb1c80-e366-11eb-930f-be57780f3fc0.png)
+
+4. Untuk Selanjutnya yaitu membuat DELETE dan Menyisipkan Directory DELETE.PHP
+
+![image](https://user-images.githubusercontent.com/81574673/125321908-5b6def00-e367-11eb-9edb-56d33a9a8209.png)
+
+sebelum delete masi ada tabelnya dan berikut tampilannya
+
+![image](https://user-images.githubusercontent.com/81574673/125322565-1f875980-e368-11eb-9c28-4cc7db731608.png)
+
+berikut tampilan yang sudah di delete 
+
+![image](https://user-images.githubusercontent.com/81574673/125322805-59586000-e368-11eb-84c5-5ac3a5629da2.png)
+
+
+
+
+
 
 
 
